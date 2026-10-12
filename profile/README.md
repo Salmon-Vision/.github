@@ -18,7 +18,7 @@ Counting fish by hand means people watching hours of underwater video and sonar 
 
 ## Partners
 
-Salmon Vision is built with and for the people who monitor salmon rivers: First Nations fisheries programs and stewardship authorities, government agencies, and research and conservation organizations across British Columbia and Alaska. Core partners include the [Pacific Salmon Foundation](https://psf.ca), [Wild Salmon Center](https://wildsalmoncenter.org), and Lumax Ecological Analytics.
+Salmon Vision is built with and for the people who monitor salmon rivers: First Nations fisheries programs and stewardship authorities, government agencies, and research and conservation organizations across British Columbia and Alaska. Core partners include the [Pacific Salmon Foundation](https://psf.ca), [Wild Salmon Center](https://wildsalmoncenter.org), and [Lumax Ecological Analytics](https://lumax.ai/).
 
 See the full list of partners at [salmonvision.org/partners](https://salmonvision.org/partners/).
 
