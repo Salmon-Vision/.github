@@ -1,6 +1,4 @@
 <div align="center">
-  
-# Salmon Vision
 
 <img width="8000" height="1980" alt="big" src="https://github.com/user-attachments/assets/bab0b018-e14e-4af7-9561-ef168d165aa5" />
 
